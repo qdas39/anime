@@ -188,7 +188,6 @@ def extensions_list(option,webui_version='stable',controlnet='none', only_contro
       f'https://github.com/pkuliyi2015/multidiffusion-upscaler-for-automatic1111 {f}/tiled-multidiffusion-upscaler',
       f'https://github.com/KohakuBlueleaf/a1111-sd-webui-lycoris {f}/webui-lycoris',
       f'https://github.com/hako-mikan/sd-webui-regional-prompter {f}/z-regional-prompter',
-      f'https://github.com/muerrilla/stable-diffusion-NPW {f}/z-negative-prompt-weight',
       # wait why? because the upstream is optimized for their colab, this is the one i refuse to update
       f'-b 23.02.27 https://github.com/anime-webui-colab/ext-tunnels {f}/tunnels',
     ],
