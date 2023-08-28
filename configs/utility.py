@@ -261,6 +261,7 @@ def embeddings_list():
     'https://huggingface.co/datasets/gsdf/EasyNegative/resolve/main/EasyNegative.safetensors',
     'https://huggingface.co/gemasai/verybadimagenegative_v1.3/resolve/main/verybadimagenegative_v1.3.pt',
     'https://huggingface.co/qdas/colab/resolve/main/negative_hand-neg.pt',
+    'https://huggingface.co/qdas/colab/resolve/main/charturnerv2.pt',
   ]
 
 def configs_list():
