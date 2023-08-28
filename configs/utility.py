@@ -268,7 +268,7 @@ def configs_list():
   print('🔧 Fetching configs...')
   return [
     'https://github.com/NUROISEA/anime-webui-colab/raw/main/configs/config.json',
-    'https://github.com/qdas39/raw/anime/main/configs/ui-config.json',
+    'https://github.com/qdas39/anime/raw/main/configs/ui-config.json',
     'https://github.com/NUROISEA/anime-webui-colab/raw/main/configs/styles.csv',
   ]
 
