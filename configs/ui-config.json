@@ -53,7 +53,7 @@
     "txt2img/Height/visible": true,
     "txt2img/Height/value": 768,
     "txt2img/Height/minimum": 64,
-    "txt2img/Height/maximum": 2048,
+    "txt2img/Height/maximum": 3072,
     "txt2img/Height/step": 8,
     "txt2img/Batch count/visible": true,
     "txt2img/Batch count/value": 1,
