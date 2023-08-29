@@ -342,6 +342,8 @@ def controlnet_list(option,webui_version='stable',extensions_version='stable'):
       'https://huggingface.co/ckpt/ControlNet-v1-1/resolve/main/control_v11p_sd15_inpaint.yaml',
       'https://huggingface.co/comfyanonymous/ControlNet-v1-1_fp16_safetensors/resolve/main/control_v11p_sd15_openpose_fp16.safetensors',
       'https://huggingface.co/ckpt/ControlNet-v1-1/resolve/main/control_v11p_sd15_openpose.yaml',
+      'https://huggingface.co/comfyanonymous/ControlNet-v1-1_fp16_safetensors/resolve/main/control_v11u_sd15_tile_fp16.safetensors',
+      'https://huggingface.co/ckpt/ControlNet-v1-1/resolve/main/control_v11u_sd15_tile.yaml',
     ],
   }
 
