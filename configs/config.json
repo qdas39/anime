@@ -104,7 +104,7 @@
     "localization": "None",
     "hide_samplers": [],
     "eta_ddim": 0.0,
-    "eta_ancestral": 1.0,
+    "eta_ancestral": 0.667,
     "ddim_discretize": "uniform",
     "s_churn": 0.0,
     "s_tmin": 0.0,
